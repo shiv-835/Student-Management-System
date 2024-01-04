@@ -24,3 +24,12 @@ Installation:
 
 Usage:
 The application will launch a main window with buttons for various functionalities. Click the buttons to add, remove, search, or display student information. Each window has clear instructions and validation for user input.
+
+Create table 'students' using the following command;
+CREATE TABLE students(
+  name varchar(255),
+  roll_number int PRIMARY KEY,
+  grade varchar(10),
+  gender varchar(10),
+  phone_number bigint
+  );
