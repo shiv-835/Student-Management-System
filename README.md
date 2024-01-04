@@ -6,7 +6,7 @@ This is a Java application designed to manage student records in a simple and ef
 
 Features:
 1. Add new students to the system.
-2.Remove existing students from the system.
+2. Remove existing students from the system.
 3. Search for students by their roll number.
 4. Display a list of all students in the system.
 5. User-friendly interface with separate windows for different functionalities.
